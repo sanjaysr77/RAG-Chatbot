@@ -1,0 +1,36 @@
+.app {
+  padding: 2rem;
+  max-width: 700px;
+  margin: auto;
+}
+
+.chat-box {
+  height: 400px;
+  overflow-y: auto;
+  border: 1px solid #ccc;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  background: #fafafa;
+}
+
+.msg {
+  margin-bottom: 1rem;
+}
+
+.msg.user {
+  color: blue;
+}
+
+.msg.bot {
+  color: green;
+}
+
+.input-box {
+  display: flex;
+  gap: 1rem;
+}
+
+input {
+  flex: 1;
+  padding: 0.5rem;
+}
