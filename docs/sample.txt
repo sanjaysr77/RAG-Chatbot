@@ -1,0 +1,85 @@
+# Indian Bike Features Reference Guide (English Only)
+
+This file contains details of some of the most popular motorcycles sold in India, including specifications, use cases, and special features.
+
+---
+
+1. Bike: Hero Splendor Plus
+- Brand: Hero MotoCorp
+- Engine: 97.2cc, air-cooled, single-cylinder, 4-stroke
+- Mileage: 65–81 km per litre
+- Fuel Type: Petrol
+- On-Road Price (Delhi): ₹84,000 approx.
+- Ideal For: Daily commuting, students, office workers
+- Features: Kick + electric start, lightweight, low maintenance
+
+---
+
+2. Bike: Bajaj Pulsar 150
+- Brand: Bajaj Auto
+- Engine: 149.5cc, air-cooled, 4-stroke
+- Mileage: 45–50 km per litre
+- Fuel Type: Petrol
+- On-Road Price (Delhi): ₹1.20 lakh approx.
+- Ideal For: Mixed city and highway use
+- Features: Sporty design, digital-analog console, reliable engine
+
+---
+
+3. Bike: Royal Enfield Classic 350
+- Brand: Royal Enfield
+- Engine: 349cc, air-oil cooled, single-cylinder
+- Mileage: 35–40 km per litre
+- Fuel Type: Petrol
+- On-Road Price (Delhi): ₹2.25 lakh approx.
+- Ideal For: Long rides, touring, leisure riding
+- Features: Iconic design, metal body, relaxed riding posture
+
+---
+
+4. Bike: TVS Apache RTR 160 4V
+- Brand: TVS Motors
+- Engine: 159.7cc, oil-cooled, 4-valve
+- Mileage: 45–50 km per litre
+- Fuel Type: Petrol
+- On-Road Price (Delhi): ₹1.45 lakh approx.
+- Ideal For: Young riders, college students
+- Features: Bluetooth connectivity, LED headlamps, digital speedometer
+
+---
+
+5. Bike: Honda Shine 125
+- Brand: Honda
+- Engine: 124cc, air-cooled, single-cylinder
+- Mileage: 60–65 km per litre
+- Fuel Type: Petrol
+- On-Road Price (Delhi): ₹94,000 approx.
+- Ideal For: Family use, city commuting
+- Features: Silent start with ACG, smooth gear shifts, reliable engine
+
+---
+
+# Common Features Buyers in India Look For:
+- Alloy wheels
+- Tubeless tyres
+- USB charging ports
+- Digital or semi-digital instrument cluster
+- ABS (Anti-lock Braking System)
+- Side-stand engine cut-off
+- LED headlamps and indicators
+- Bluetooth-enabled dashboard
+
+---
+
+# Typical Buyer Questions:
+- What is the mileage?
+- Is the service cost affordable?
+- Does it come with tubeless tyres?
+- Is there EMI or finance available?
+- Is it suitable for highway rides?
+- How much weight can it carry?
+- What is the engine warranty?
+
+---
+
+Thank you for using our bike information service. Choose wisely and ride safe!
