@@ -5,7 +5,7 @@ A simple chatbot that answers your questions based on your own documents using *
 
 - Node.js `v18+`
 - Ollama installed and running  
-  (Start it with: `ollama run llama3`)
+  (Start it with: `ollama run llama3.2`)
 
 ⚙️ Backend Setup
 
